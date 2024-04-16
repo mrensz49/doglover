@@ -18,6 +18,7 @@ php artisan serve
 ```
 
 Or type http://doglover.test (im using laragon)
+Note: I restrict the number of dog breeds to 15 to prevent the page from loading slowly.
 
 ## Create your accounts
 
