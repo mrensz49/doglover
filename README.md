@@ -1,3 +1,11 @@
+## Dev Setup
+
+Clone the main branch:
+
+```
+git clone https://github.com/mrensz49/doglover
+```
+
 ### Run the following commands:
 ```
 $ composer install
