@@ -9,12 +9,15 @@ git clone https://github.com/mrensz49/doglover
 ### Run the following commands:
 ```
 $ composer install
-$ npm install
 $ cp .env.example .env
 $ php artisan key:generate
 $ php artisan migrate
+$ npm install
 $ npm run build
+php artisan serve
 ```
+
+Or type http://doglover.test (im using laragon)
 
 ## Create your accounts
 
